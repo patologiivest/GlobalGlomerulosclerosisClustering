@@ -30,13 +30,18 @@ The code snippet is based on glomeruli extracted from a set of kidney whole slid
 
 If you make use of the code in your research, please cite:
 
-```         
-@article{weishaupt2024unsupervised,
-  title={Unsupervised learning for labeling global glomerulosclerosis},
-  author={Weishaupt, Hrafn and Besusparis, Justinas and Weis, Cleo-Aron and Porubsky, Stefan and Laurinavi{\v{c}}ius, Arvydas and Leh, Sabine},
-  journal={bioRxiv},
-  pages={2024--09},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory}
-}
 ```
+@article{weishaupt2024unsupervised,
+ title={Unsupervised learning for labeling global glomerulosclerosis},
+ author={Weishaupt, Hrafn and Besusparis, Justinas and Weis, Cleo-Aron and Porubsky, Stefan and Laurinavičius, Arvydas and Leh, Sabine}, year={2025}, month={Sep}, pages={110719}},
+ journal={Computers in Biology and Medicine}, 
+ volume={196},
+ DOI={10.1016/j.compbiomed.2025.110719}
+```
+# License
+
+Shield: [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+[![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
