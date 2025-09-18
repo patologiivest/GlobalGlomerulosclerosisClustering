@@ -31,11 +31,14 @@ The code snippet is based on glomeruli extracted from a set of kidney whole slid
 If you make use of the code in your research, please cite:
 
 ```
-@article{weishaupt2024unsupervised,
+@article{weishaupt2025unsupervised,
  title={Unsupervised learning for labeling global glomerulosclerosis},
- author={Weishaupt, Hrafn and Besusparis, Justinas and Weis, Cleo-Aron and Porubsky, Stefan and Laurinavičius, Arvydas and Leh, Sabine}, year={2025}, month={Sep}, pages={110719}},
+ author={Weishaupt, Hrafn and Besusparis, Justinas and Weis, Cleo-Aron and Porubsky, Stefan and Laurinavičius, Arvydas and Leh, Sabine},
  journal={Computers in Biology and Medicine}, 
  volume={196},
+ year={2025},
+ month={Sep},
+ pages={110719}}
  DOI={10.1016/j.compbiomed.2025.110719}
 ```
 # License
